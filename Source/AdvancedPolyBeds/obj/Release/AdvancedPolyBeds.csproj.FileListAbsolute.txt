@@ -1,0 +1,4 @@
+W:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\__LocalCopy_Advanced Polyamory Beds\Source\AdvancedPolyBeds\bin\Release\AdvancedPolyBeds.dll
+W:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\__LocalCopy_Advanced Polyamory Beds\Source\AdvancedPolyBeds\obj\Release\AdvancedPolyBeds.csproj.AssemblyReference.cache
+W:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\__LocalCopy_Advanced Polyamory Beds\Source\AdvancedPolyBeds\obj\Release\AdvancedPolyBeds.csproj.CoreCompileInputs.cache
+W:\Games\SteamLibrary\steamapps\common\RimWorld\Mods\__LocalCopy_Advanced Polyamory Beds\Source\AdvancedPolyBeds\obj\Release\AdvancedPolyBeds.dll
